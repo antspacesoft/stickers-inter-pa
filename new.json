@@ -1,0 +1,720 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.inter",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2022o6a",
+      "name": "Brasil vs Coreia do Sul (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o6b",
+      "name": "Brasil vs Coreia do Sul (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsswitzerland",
+      "name": "Brasil vs Suíça",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022BRAgol1",
+      "name": "Brasil Gol 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022BRAgol2",
+      "name": "Brasil Gol 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia1",
+      "name": "vs Serbia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia2",
+      "name": "vs Serbia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022brazil2",
+      "name": "Brasil 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022brazil3",
+      "name": "Brasil 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022alissonbecker",
+      "name": "Alisson Becker",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022antony1",
+      "name": "Antony (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022antony2",
+      "name": "Antony (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022casemiro",
+      "name": "Casemiro",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022danialves1",
+      "name": "Dani Alves (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022danialves2",
+      "name": "Dani Alves (2)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022evertonribeiro",
+      "name": "Everton Ribeiro",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022fred",
+      "name": "Fred",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022gabrieljesus1",
+      "name": "Gabriel Jesus (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022gabrieljesus2",
+      "name": "Gabriel Jesus (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022gabrielmartinelli",
+      "name": "Gabriel Martinelli",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022neymarjr1",
+      "name": "Neymar Jr (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022neymarjr2",
+      "name": "Neymar Jr (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022neymarjr3",
+      "name": "Neymar Jr (3)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022pedro",
+      "name": "Pedro",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022richarlison1",
+      "name": "Richarlison (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022richarlison2",
+      "name": "Richarlison (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022thiagosilva",
+      "name": "Thiago Silva",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022viniciusjr1",
+      "name": "Vinicius Jr (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022viniciusjr2",
+      "name": "Vinicius Jr (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022weverton",
+      "name": "Weverton",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "brasileirao2022j37",
+      "name": "vs Sao Paulo",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j36",
+      "name": "vs A. Paranaense",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2022j34",
+      "name": "vs Ceará",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2022j32",
+      "name": "vs Botagofo",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "brasileirao2022j31",
+      "name": "vs Goiás",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j29",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "team2022b",
+      "name": "Team 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "team2022c",
+      "name": "Team 2022 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2022j27",
+      "name": "vs Atletico-GO",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j26",
+      "name": "vs Cuiaba",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2022j24",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j23",
+      "name": "vs Avaí",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2022j22",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "brasileirao2022j20",
+      "name": "vs Atlético-MG",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j16",
+      "name": "vs America MG",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sudamericana2022o2",
+      "name": "vs Colo Colo",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "brasileirao2022j14",
+      "name": "vs Coritiba",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2022j12",
+      "name": "vs Goias",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasileirao2022j11",
+      "name": "vs Flamengo",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j9",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "sudamericana2022fg6",
+      "name": "vs Nueve de Octubre",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "sudamericana2022fg5",
+      "name": "vs Indep. Medellin (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojis1",
+      "name": "Emojis 1",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "sudamericana2022fg3",
+      "name": "vs Indep. Medellin",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j3",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "brasileirao2022j2",
+      "name": "vs Fortaleza",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "andresdalessandro1",
+      "name": "Andres D Alessandro",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "felizpascoa1",
+      "name": "Feliz Pascoa",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "gauchao2022s2",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "team2022",
+      "name": "Team 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "gauchao2022j9",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "gauchao2022j10",
+      "name": "vs Aimore",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "gauchao2022j6",
+      "name": "vs SER Caxias",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gauchao2022j2",
+      "name": "vs Frederiquense",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "gauchao2022j1",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "anonovo2022",
+      "name": "Feliz Ano Novo",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "natal1",
+      "name": "Feliz Natal",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "brasileirao2021j32",
+      "name": "vs Athletico-PR",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "brasileirao2021j30",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasileirao2021j26",
+      "name": "vs America-MG",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2021j25",
+      "name": "vs Chapecoense",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasileirao2021j22",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "brasileirao2021j21",
+      "name": "vs Fortaleza",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "brasileirao2021j19",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2021j16",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2021j15",
+      "name": "vs Flamengo",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "brasileirao2021j12",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "brasileirao2021j6",
+      "name": "vs Chapecoense",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2021j3",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "copabrasil2021d1",
+      "name": "vs Vitoria",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "libertadores2021fg5",
+      "name": "vs Olimpia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gauchao2021s2",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "libertadores2021fg3",
+      "name": "vs Olimpia",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2021fg2",
+      "name": "vs Tachira",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "gauchao2021j11",
+      "name": "vs Bento Goncalves",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "gauchao2021j10",
+      "name": "vs Aimore",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "gauchao2021j7",
+      "name": "vs Brasil de Pelotas",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gauchao2021j6",
+      "name": "vs Caixas",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "gauchao2021j5",
+      "name": "vs Novo Hamburgo",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "gauchao2021j4",
+      "name": "vs Ypiranga",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "animated1",
+      "name": "Animados 1",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "gauchao2021j1",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "brasileirao2020j36",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j33",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2020j32",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2020j31",
+      "name": "vs Sao Paulo",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j30",
+      "name": "vs Fortaleza",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j29",
+      "name": "vs Goias",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2020j28",
+      "name": "vs Ceara",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2020j27",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j26",
+      "name": "vs Palmeiras",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brasileirao2020j25",
+      "name": "vs Botafogo",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "copadobrasil2020j2",
+      "name": "vs Atletico-GO (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "copadobrasil2020j1",
+      "name": "vs Atletico-GO (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j17",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2020j16",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2020j15",
+      "name": "vs Athletico-PR",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j14",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2020fg3",
+      "name": "vs America Cali",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j9",
+      "name": "vs Ceara",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j7",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "brasileirao2020j6",
+      "name": "vs Botafogo",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "brasileirao2020j5",
+      "name": "vs Atletico Mineiro",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j4",
+      "name": "vs Atletico Goianiense",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j2",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "seriea5",
+      "name": "Pack Serie A (5)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "seriea4",
+      "name": "Pack Serie A (4)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack Team 2020 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack3",
+      "name": "Pack Team 2020 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    }
+  ]
+}

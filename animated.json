@@ -1,0 +1,24 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.inter",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2022BRAgol1",
+      "name": "Brasil Gol 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022BRAgol2",
+      "name": "Brasil Gol 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "animated1",
+      "name": "Animados 1",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    }
+  ]
+}

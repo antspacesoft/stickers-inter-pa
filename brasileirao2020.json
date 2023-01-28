@@ -1,0 +1,132 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.inter",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "brasileirao2020j36",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j33",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2020j36",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j32",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2020j31",
+      "name": "vs Sao Paulo",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j30",
+      "name": "vs Fortaleza",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j29",
+      "name": "vs Goias",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2020j28",
+      "name": "vs Ceara",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2020j27",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao2020j26",
+      "name": "vs Palmeiras",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brasileirao2020j25",
+      "name": "vs Botafogo",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao2020j17",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2020j16",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2020j15",
+      "name": "vs Athletico-PR",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2020j14",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2020j9",
+      "name": "vs Ceara",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j7",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "brasileirao2020j6",
+      "name": "vs Botafogo",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "brasileirao2020j5",
+      "name": "vs Atletico Mineiro",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j4",
+      "name": "vs Atletico Goianiense",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao2020j2",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    }
+  ]
+}
