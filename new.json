@@ -4,6 +4,12 @@
   "sticker_packs": [
     {
       "identifier": "gauchao2023j3",
+      "name": "vs Ypiranga",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gauchao2023j3",
       "name": "vs São Luiz",
       "animated_sticker_pack": false,
       "stickers": "18"
