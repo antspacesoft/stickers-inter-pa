@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "gauchao2023j8",
+      "name": "vs Sao Jose",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "gauchao2023j7",
       "name": "vs Brasil de Pelotas",
       "animated_sticker_pack": false,
