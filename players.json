@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "ennervalencia1",
+      "name": "Enner Valencia",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "worldcup2022brazil2",
       "name": "Brasil 2022 (1)",
       "animated_sticker_pack": false,
