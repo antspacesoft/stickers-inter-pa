@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "anonovo2022",
+      "name": "Feliz Ano Novo",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
       "identifier": "natal1",
       "name": "Feliz Natal",
       "animated_sticker_pack": false,
@@ -187,18 +193,6 @@
       "name": "Feliz Pascoa",
       "animated_sticker_pack": false,
       "stickers": "9"
-    },
-    {
-      "identifier": "anonovo2022",
-      "name": "Feliz Ano Novo",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "anonovo2022",
-      "name": "Feliz Ano Novo",
-      "animated_sticker_pack": false,
-      "stickers": "8"
     },
     {
       "identifier": "gauchao2021j1",
