@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "team2024a",
+      "name": "Team 2024 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "team2024b",
+      "name": "Team 2024 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "anonovo2022",
       "name": "Feliz Ano Novo",
       "animated_sticker_pack": false,
