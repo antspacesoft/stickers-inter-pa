@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier": "alanpatrick1",
+         "name": "Alan Patrick (1)",
+         "animated_sticker_pack": false,
+         "stickers": "15"
+      },
+      {
+         "identifier": "alanpatrick2",
+         "name": "Alan Patrick (2)",
+         "animated_sticker_pack": false,
+         "stickers": "15"
+      },
+      {
          "identifier":"kit2425",
          "name":"Camisa 24-25",
          "animated_sticker_pack":false,
